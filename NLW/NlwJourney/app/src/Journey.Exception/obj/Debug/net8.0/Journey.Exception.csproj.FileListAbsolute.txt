@@ -1,0 +1,11 @@
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll

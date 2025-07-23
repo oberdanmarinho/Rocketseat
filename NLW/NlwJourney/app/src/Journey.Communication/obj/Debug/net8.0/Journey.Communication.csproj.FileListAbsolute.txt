@@ -1,0 +1,11 @@
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+D:\Studies\Rocketseat\Rocketseat.NlwJourney\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
